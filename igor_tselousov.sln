@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "igor_tselousov", "igor_tselousov.csproj", "{F3C1B514-B99E-4AB6-824B-CF7C001AD8E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tumakom", "..\tumakom\tumakom.csproj", "{4FB5EBC8-284D-4369-B17A-12BF005E7E5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3C1B514-B99E-4AB6-824B-CF7C001AD8E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3C1B514-B99E-4AB6-824B-CF7C001AD8E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3C1B514-B99E-4AB6-824B-CF7C001AD8E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3C1B514-B99E-4AB6-824B-CF7C001AD8E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FB5EBC8-284D-4369-B17A-12BF005E7E5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FB5EBC8-284D-4369-B17A-12BF005E7E5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FB5EBC8-284D-4369-B17A-12BF005E7E5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FB5EBC8-284D-4369-B17A-12BF005E7E5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A3A8A10-2FD5-4146-BD45-68426C2C4A03}
+	EndGlobalSection
+EndGlobal
